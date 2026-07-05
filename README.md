@@ -1,4 +1,4 @@
-# Streamer Live Monitor
+# liveAlert
 
 A local desktop app for monitoring streamers and sending live-start reminders.
 
