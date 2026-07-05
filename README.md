@@ -4,6 +4,14 @@ A local desktop app for monitoring streamers and sending live-start reminders.
 
 The app is built with Python standard library and Tkinter, so it can run without third-party dependencies.
 
+## 声明
+
+本项目的所有功能都是基于互联网上公开的资料开发，无任何破解、逆向工程等行为。
+
+本项目仅用于学习交流编程技术，严禁将本项目用于商业目的。如有任何商业行为，均与本项目无关。
+
+如果本项目存在侵犯您的合法权益的情况，请及时与开发者联系，开发者将会及时删除有关内容。
+
 ## Features
 
 - Add, edit, and delete streamers.
@@ -235,11 +243,4 @@ The endpoint may return a JSON array, or a JSON object with `danmaku`,
 The app does not store platform account passwords, bypass login, crack APIs, or evade platform restrictions. Real platform integrations should use official APIs, authorized public interfaces, or your own compliant service.
 
 
-
-##声明
-本项目的所有功能都是基于互联网上公开的资料开发，无任何破解、逆向工程等行为。
-
-本项目仅用于学习交流编程技术，严禁将本项目用于商业目的。如有任何商业行为，均与本项目无关。
-
-如果本项目存在侵犯您的合法权益的情况，请及时与开发者联系，开发者将会及时删除有关内容。
 
